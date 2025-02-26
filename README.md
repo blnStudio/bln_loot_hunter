@@ -1,6 +1,6 @@
 # 🔍 BLN Loot Hunter
 
-<img src="./github/assets/banner.png" alt="Looting System" width="100%" />
+<img src="./.github/assets/banner.png" alt="Looting System" width="100%" />
 
 ## 📋 Overview
 
