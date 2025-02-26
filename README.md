@@ -7,7 +7,7 @@
 A comprehensive looting system for RedM, allowing players to search containers, loot bodies, and skin animals with a chance-based reward system. Fully compatible with all major RedM frameworks including VORP, RedEM, RedEM2023, QBR, RSG, and QR.
 
 ### 🎬 Preview
-[**Video Preview**](https://youtu.be/xxxxxx)
+[**Video Preview**](https://youtu.be/GITDMO3yD9k)
 
 ## ✨ Features
 
