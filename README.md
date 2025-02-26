@@ -24,6 +24,9 @@ A comprehensive looting system for RedM, allowing players to search containers, 
 ## 💻 Framework compatibility
 **✅ VORP ✅ REDEMRP(old/2023) ✅ RSG ✅QBR**.
 
+## ⚙️ Dependencies
+- [BLN Lib](https://bln.tebex.io/package/6520120)
+
 ## 📥 Installation
 
 1. Download the resource
