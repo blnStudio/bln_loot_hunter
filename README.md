@@ -6,8 +6,11 @@
 
 A comprehensive looting system for RedM, allowing players to search containers, loot bodies, and skin animals with a chance-based reward system. Fully compatible with all major RedM frameworks including VORP, RedEM, RedEM2023, QBR, RSG, and QR.
 
-### 🎬 Preview
-[**Video Preview**](https://youtu.be/GITDMO3yD9k)
+[![](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/GITDMO3yD9k)
+[![Discord](https://img.shields.io/badge/Discord-1111?style=flat&logo=discord&logoColor=white&color=7289da)](https://discord.bln-studio.com/)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/blnStudio/bln_loot_hunter)
+![License](https://img.shields.io/github/license/blnStudio/bln_loot_hunter)
+
 
 ## ✨ Features
 
