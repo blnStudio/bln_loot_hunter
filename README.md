@@ -29,6 +29,7 @@ A comprehensive looting system for RedM, allowing players to search containers, 
 
 ## ⚙️ Dependencies
 - [BLN Lib](https://bln-studio.com/package/6520120)
+- [BLN Notify](https://github.com/blnStudio/bln_notify)
 
 ## 📥 Installation
 
