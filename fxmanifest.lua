@@ -21,5 +21,6 @@ shared_scripts {
 }
 
 dependencies {
-    'bln_lib'
+    'bln_lib',
+    'bln_notify'
 }
